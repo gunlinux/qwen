@@ -1,7 +1,7 @@
-# Test Documentation Generator Skill
-
-## Description
-Analyzes test files in a project and generates comprehensive documentation about test code styles, patterns, and conventions. This helps teams maintain consistent testing practices across the codebase.
+---
+name: test_docs
+description: Analyzes test files in a project and generates comprehensive documentation about test code styles, patterns, and conventions. This helps teams maintain consistent testing practices across the codebase.
+---
 
 The output is a structured markdown report saved as:
 `test_docs_<BRANCH_NAME>_<COUNTER>.md` in the project root.
