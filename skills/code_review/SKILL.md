@@ -1,9 +1,9 @@
-# Senior Code Review Skill
-
-## Description
-Performs a deep, senior-level code review of all staged (uncommitted) changes in the git repository.  
+---
+name: code_review
+description: Performs a deep, senior-level code review of all staged (uncommitted) changes in the git repository.  
 The review focuses on architectural decisions, design quality, long-term maintainability, and risk assessment—not just code style.
-
+---
+ 
 The output is a structured markdown report saved as:
 `review_<BRANCH_NAME>_<COUNTER>.md` in the project root.
 
